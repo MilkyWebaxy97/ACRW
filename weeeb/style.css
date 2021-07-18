@@ -1,0 +1,32 @@
+body{
+      background-image: url(ab.png);
+      background-size: cover;
+}
+.video_editor{
+      position: absolute;
+      right: 0;
+      bottom: 0;
+      min-width: 100%;
+      min-height: 100%;
+      width: auto;
+      height: auto;
+      z-index: -999;
+}
+div{
+      font-family: Verdana;
+      font-weight: 800;
+      color: rgb(251, 252, 253);
+      text-align: center;
+      margin-top: 250px;
+}
+button{
+      background: rgb(96, 70, 190);
+      border-radius: 25px;
+
+}
+button a{
+      font-size: 25px;
+      color: cornsilk;
+      margin: 20px;
+      text-decoration: none;
+}
